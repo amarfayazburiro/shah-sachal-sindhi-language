@@ -1,7 +1,6 @@
 //***** This is purely work of Language Engineering, for analyses of Sentiment lexicon in Shah Jo Risalo ****//
 //***** Compiled by Amar Fayaz Buriro & Shabir Kumbhar for further research ****//
 =========================================================================================
-
 Number of characters (including spaces) :	206842
 Number of characters (without spaces) :	166159
 Number of words :	34042
